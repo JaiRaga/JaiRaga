@@ -1,5 +1,5 @@
 <p align="center>
-          <img alt="banner" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
+          <img alt="banner" width="300" height="200" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
 </p>
           
 <div id="header" align="center">

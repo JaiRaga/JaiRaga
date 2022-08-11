@@ -1,8 +1,10 @@
 ![banner](https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg)
+<div id="header" align="center">
 ### Hi there, I'm Raga 👋
 
 ## I'm a Full-Stack Web And Mobile Developer 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</div>
 
 <!--
 **JaiRaga/JaiRaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

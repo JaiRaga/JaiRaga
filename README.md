@@ -1,5 +1,5 @@
 <p align="center">
-<img width="700" height="450" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
+<img width="600" height="250" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
 </p>
 <div id="header" align="center">
           <h4>Hi there, I'm Raga 👋</h4>

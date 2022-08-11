@@ -5,7 +5,8 @@
           <h4>Hi there, I'm Raga 👋</h4>
           <h3>I'm a Full-Stack Developer with expertise in Web and Mobile Application Development.</h3>
 </div>
-          
+
+### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaiRaga&theme=dark)](https://git.io/streak-stats)
 
 - :fire: I am currently working as a fullstack developer contributing to frontend and backend for building web application

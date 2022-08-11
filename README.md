@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning AWS Amplify
+- :zap: My hobbies are Mobile Application Development
 
 ---
 

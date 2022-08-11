@@ -2,7 +2,6 @@
 
 <div id="header" align="center">
           <h4>Hi there, I'm Raga 👋</h4>
-
           <h3>I'm a Full-Stack Web And Mobile Developer</h3>
 </div>
           

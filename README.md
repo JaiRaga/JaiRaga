@@ -1,9 +1,9 @@
 ![banner](https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg)     
 
 <div id="header" align="center">
-          ### Hi there, I'm Raga 👋
+          <h4>Hi there, I'm Raga 👋</h4>
 
-          ## I'm a Full-Stack Web And Mobile Developer 
+          <h3>I'm a Full-Stack Web And Mobile Developer</h3>
 </div>
           
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)

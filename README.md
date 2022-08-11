@@ -1,5 +1,3 @@
-
-![banner](https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg)     
 <p align="center">
 <img width="700" height="500" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
 </p>

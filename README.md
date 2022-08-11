@@ -1,6 +1,8 @@
 
 ![banner](https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg)     
-<img align="center" width="900" height="800" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
+<p align="center">
+<img width="700" height="500" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
+</p>
 <div id="header" align="center">
           <h4>Hi there, I'm Raga 👋</h4>
           <h3>I'm a Full-Stack Developer with expertise in Web and Mobile Application Development.</h3>

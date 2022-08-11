@@ -1,6 +1,6 @@
 <div id="header" align="center">
-          <h4>Hi there, I'm Raga 👋</h4>
-          <h3>I'm a Full-Stack Developer with expertise in Web and Mobile Application Development 🚀:</h3>
+          <h4>:sparkles: Hi there, I'm Raga 👋</h4>
+          <h3>I'm a Full-Stack Developer with expertise in Web and Mobile Application Development 🚀</h3>
 </div>
 
 ### :fire: My Stats:

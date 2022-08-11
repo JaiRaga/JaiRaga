@@ -5,7 +5,7 @@
           <h3>I'm a Full-Stack Developer with expertise in Web and Mobile Application Development.</h3>
 </div>
           
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaiRaga)](https://git.io/streak-stats)
 
 <!--
 **JaiRaga/JaiRaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

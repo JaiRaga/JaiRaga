@@ -1,8 +1,8 @@
 ![banner](https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg)
 ### Hi there, I'm Raga 👋
 
-## I'm a Full-Stack Web And Mobile Developer <img align="right" alt="Coding" width="40" src="add your link 
-  here">
+## I'm a Full-Stack Web And Mobile Developer 
+<img align="right" alt="Coding" width="40" src="https://media1.giphy.com/media/GQz2cqA2WNDdRyHHT7/giphy.gif?cid=ecf05e47fghsjyaj6hcovwamfdz0s1cechi3a7ngc2q0499y&rid=giphy.gif&ct=g">
 
 <!--
 **JaiRaga/JaiRaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

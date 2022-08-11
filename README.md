@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600" height="450" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
+<img src="https://komarev.com/ghpvc/?username=JaiRaga&style=flat-square&color=blue" alt=""/>
 </p>
 <div id="header" align="center">
           <h4>Hi there, I'm Raga 👋</h4>

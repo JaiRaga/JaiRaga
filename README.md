@@ -1,4 +1,7 @@
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
           <h4>:sparkles: Hi there, I'm Raga 👋</h4>
           <h3>I'm a Full-Stack Developer with expertise in Web and Mobile Application Development 🚀</h3>
 </div>

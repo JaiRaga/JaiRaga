@@ -1,12 +1,12 @@
 <p align="center>
-![banner](https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg)
+          <img alt="banner" src="https://www.historyhit.com/app/uploads/fly-images/5156639/Kanyakumari-788x537.jpg" />
 </p>
           
 <div id="header" align="center">
-### Hi there, I'm Raga 👋
+          ### Hi there, I'm Raga 👋
 
-## I'm a Full-Stack Web And Mobile Developer 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+          ## I'm a Full-Stack Web And Mobile Developer 
+          [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 <!--

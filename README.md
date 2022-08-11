@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=JaiRaga&style=flat-square&color=blue" alt=""/>
+<img src="https://geographical.co.uk/wp-content/uploads/somalaya-mountain-range-title.jpg" align="center alt="banner"/>
 </p>
 <div id="header" align="center">
           <h4>Hi there, I'm Raga 👋</h4>

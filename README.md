@@ -10,8 +10,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaiRaga&theme=dark)](https://git.io/streak-stats)
 
 - :fire: I am currently working as a fullstack developer contributing to both frontend and backend for building web applications
-- 🔭 I’m currently exploring React Native
-- 🌱 I’m currently learning AWS Amplify
+- 🔭 I’m currently exploring Machine Learning and Data Science
+- 🌱 I’m currently learning AWS and Azure Deployments.
 - :zap: In my free time, i've develope Mobile Applications and solve problems on Hackerrank
 
 ---
